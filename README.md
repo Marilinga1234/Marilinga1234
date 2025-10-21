@@ -9,8 +9,8 @@ I'm a passionate Computer Science and Engineering student at Sir M Visvesvaraya 
 I enjoy transforming raw data into actionable insights and building practical solutions using Data Analysis and Machine Learning.
 I'm currently strengthening my expertise in Data Engineering, Data Analysis, and building robust data pipelines for real-world applications.
 My focus lies in Data Processing, Machine Learning, Database Management, and API Integration, leveraging technical skills to create impactful, tech-driven solutions.
-I believe in combining Data Structures & Algorithms, Object-Oriented Programming, and Statistical Analysis to build efficient, scalable, and reliable data systems.
 _________________________________________________________________________
+
  💼 Technical Skills & Tools
 
 Languages
@@ -115,7 +115,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-### 🚀 Active Developer
+🚀 Active Developer
 **Passionate about building data-driven solutions and continuous learning**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Martlinga1234&color=blue)
@@ -123,7 +123,8 @@ ________________________________________________________________________________
 ![Followers](https://badgen.net/badge/Followers/1+/green)
 
 </div>
-__________________________________________________________________________________
+_______________________________________________________________________________________
+
 ✉️ Let’s Connect
 
 📧 Email: marilingas42@gmail.com
@@ -131,7 +132,7 @@ ________________________________________________________________________________
 🔗 LinkedIn: https://www.linkedin.com/in/marilinga-s-618552282
 
 💻 GitHub: https://github.com/Marilinga1234
-__________________________________________________________________________________
+______________________________________________________________________________________
 
 ⭐ “Continuous learning fuels continuous improvement — and I code to create impact.”
 
