@@ -80,14 +80,14 @@ _____________________________________________________________________________
 AI-powered assistant recommending the least polluted route using real-time AQI data.
 Integrates Google Maps API, Flask, and LLMs to suggest optimal transport modes and eco-rewards.
 
-🔗 GitHub Repo
+🔗[ GitHub Repo](https://github.com/Marilinga1234/project-one)
 
 🟠 Ola Bike Ride Demand Forecasting
 
 Regression-based ML model (LightGBM) achieving 93%+ accuracy for ride demand prediction.
 Deployed via Flask with Google Calendar & OpenWeather APIs for context-aware forecasts.
 
-🔗 GitHub Repo
+🔗[ GitHub Repo](https://github.com/Marilinga1234/project-two)
 
 🟣 VAKIL (Work in Progress)
 
