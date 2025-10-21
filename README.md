@@ -32,6 +32,7 @@ Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) 
@@ -39,7 +40,7 @@ Developer Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipse&logoColor=white)
-________________________________________________________________________
+______________________________________________________________________________________________
 
 🛠️ Data & Engineering Expertise
 
@@ -58,7 +59,7 @@ ________________________________________________________________________
 • 📈 Statistical Fundamentals — Utilizing statistical methods for data validation, correlation analysis
 
 • 🌐 Full-Stack Awareness — Understanding end-to-end data flow from frontend interfaces to backend processing systems
-_____________________________________________________________________________
+________________________________________________________________________________________________
 
 🧩 Core CS & Problem-Solving Skills
 
@@ -71,7 +72,7 @@ _____________________________________________________________________________
    🧮 Complexity Analysis — Time & Space Complexity, Big-O Notation, Optimization Techniques
 
    🧰 Coding Platforms — LeetCode, HackerRank, GeeksforGeeks
-_____________________________________________________________________________
+______________________________________________________________________________________________
 
 🚀 Featured Projects
 
@@ -92,7 +93,7 @@ Deployed via Flask with Google Calendar & OpenWeather APIs for context-aware for
 🟣 VAKIL (Work in Progress)
 
 Virtual Assistant For Knowledge In Indian Law - An LLM + RAG + GNN powered legal assistant simplifying Indian law and Making Legal Knowledge Accessible to All.
-__________________________________________________________________________________
+_______________________________________________________________________________________________
 
 🏆 Achievements & Certifications
 
@@ -109,7 +110,7 @@ ________________________________________________________________________________
 • 📊 Machine Learning Project Excellence – Achieved 93%+ accuracy in Ola Bike Demand Forecasting
 
 • 🌱 Eco-Innovation Project – Developed AQI-based navigation system for environmental sustainability
-_____________________________________________________________________________________
+________________________________________________________________________________________________
 
 ## 📈 GitHub Stats & Activity
 
@@ -123,7 +124,7 @@ ________________________________________________________________________________
 ![Followers](https://badgen.net/badge/Followers/1+/green)
 
 </div>
-_______________________________________________________________________________________
+_________________________________________________________________________________________________
 
 ✉️ Let’s Connect
 
@@ -132,7 +133,7 @@ ________________________________________________________________________________
 🔗 LinkedIn: https://www.linkedin.com/in/marilinga-s-618552282
 
 💻 GitHub: https://github.com/Marilinga1234
-______________________________________________________________________________________
+________________________________________________________________________________________________
 
 ⭐ “Continuous learning fuels continuous improvement — and I code to create impact.”
 
